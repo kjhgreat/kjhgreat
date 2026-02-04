@@ -11,8 +11,6 @@
 
 ![GitHub Stats](https://my-github-stats-five-ecru.vercel.app/api?username=kjhgreat&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kjhgreat&theme=radical)
-
 ![Top Langs](https://my-github-stats-five-ecru.vercel.app/api/top-langs/?username=kjhgreat&layout=compact&theme=radical&langs_count=8)
 
 ---
