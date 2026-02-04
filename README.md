@@ -9,7 +9,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjhgreat&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjhgreat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjhgreat&layout=compact&theme=radical&langs_count=8)
 
